@@ -11,15 +11,6 @@
 
 ---
 
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harris-netto-6916b0106/)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919773884335/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.evil_07/)
-
----
-
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Harris Netto**, a passionate AWS & DevOps Solution Architect with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
@@ -64,4 +55,13 @@ Hi, I'm **Harris Netto**, a passionate AWS & DevOps Solution Architect with a lo
 ---
 
 ###
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harris-netto-6916b0106/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919773884335/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.evil_07/)
+
+---
+
 
